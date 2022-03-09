@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\bin\Debug\netcoreapp3.1\Task2_metod.exe
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\bin\Debug\netcoreapp3.1\Task2_metod.deps.json
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\bin\Debug\netcoreapp3.1\Task2_metod.runtimeconfig.json
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\bin\Debug\netcoreapp3.1\Task2_metod.runtimeconfig.dev.json
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\bin\Debug\netcoreapp3.1\Task2_metod.dll
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\bin\Debug\netcoreapp3.1\Task2_metod.pdb
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\obj\Debug\netcoreapp3.1\Task2_metod.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\obj\Debug\netcoreapp3.1\Task2_metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\obj\Debug\netcoreapp3.1\Task2_metod.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\obj\Debug\netcoreapp3.1\Task2_metod.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\obj\Debug\netcoreapp3.1\Task2_metod.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\obj\Debug\netcoreapp3.1\Task2_metod.dll
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\obj\Debug\netcoreapp3.1\Task2_metod.pdb
+C:\Users\ilkin\source\repos\Task2_metod\Task2_metod\obj\Debug\netcoreapp3.1\Task2_metod.genruntimeconfig.cache
